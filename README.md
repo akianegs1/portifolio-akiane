@@ -1,6 +1,6 @@
-# Portfólio - Akiane
-Portfólio da disciplina Desenvolvimento Web - Professor Gleiner
 # 🌸 Portfólio - Akiane Santos
+
+Disciplina Desenvolvimento Web - Professor Gleiner
 
 Este é o meu **site portfólio pessoal**, criado para apresentar minhas habilidades, projetos e informações de contato.  
 O objetivo é mostrar um pouco sobre mim, minha trajetória e os trabalhos que desenvolvi.
@@ -40,4 +40,5 @@ Ele contém:
 ├── Akiane.png          # Foto de apresentação
 ├── Raizes.png          # Imagem do projeto Raízes do Araguaia
 ├── Kalua.png           # Imagem do projeto Kalua
+├── Prévia.png          # Imagem da prévia do portfólio
 └── README.md           # Documentação do projeto
