@@ -1,5 +1,5 @@
-# portifolio-akiane
-Portifólio da disciplina Desenvolvimento Web - Professor Gleiner
+# Portfólio - Akiane
+Portfólio da disciplina Desenvolvimento Web - Professor Gleiner
 # 🌸 Portfólio - Akiane Santos
 
 Este é o meu **site portfólio pessoal**, criado para apresentar minhas habilidades, projetos e informações de contato.  
